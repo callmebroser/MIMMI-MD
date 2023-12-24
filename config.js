@@ -21,11 +21,11 @@ global.APIKeys = {
 
 // Other
 apikey: "bf2d2cf29b3edc604b447983",
-global.ownername = 'AMEEN SER'
-global.owner = ['916238768108']
-global.premium = ['916238768108']
+global.ownername = 'CALL ME BRO SER'
+global.owner = ['919562530542']
+global.premium = ['919562530542']
 global.packname = 'MIMMI-MD'
-global.author = 'AMEEN-SER'
+global.author = 'CALL-ME-BRO-SER'
 global.sessionName = 'session'
 global.prefa = ['','!','.',]
 global.sp = '✪'
